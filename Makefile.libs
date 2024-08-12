@@ -1,0 +1,4 @@
+# Add any standard C libraries you use here. For example, if you wanted to 
+# use the standard math library you'd say:
+# LIBS = -lm
+LIBS =
